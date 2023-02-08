@@ -1,2 +1,2 @@
 # Informatica-Grafica
-Repository IG
+Repository IG 
